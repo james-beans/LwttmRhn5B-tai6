@@ -31,4 +31,5 @@ The rest of the [clues are in the clues folder](/clues).
 
 ### [Clues](/clues) will be updated daily.
 
-##### First clue - 03/11/24
+##### [First clue](/clues/1.md) - 03/11/24
+##### [Second clue](/clues/2.md) - 04/11/24
