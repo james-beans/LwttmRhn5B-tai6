@@ -37,4 +37,4 @@ The rest of the [clues are in the clues folder](/clues).
 ##### [Fourth clue](/clues/4.md) - 06/11/24
 ##### [Fith clue](/clues/5.md) - 07/11/24
 ##### [Sixth clue](/clues/6.md) - 08/11/24
-##### [Seventh clue](/clues/7.md) - 08/11/24
+##### [Seventh clue](/clues/7.md) - 09/11/24
