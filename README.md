@@ -38,3 +38,4 @@ The rest of the [clues are in the clues folder](/clues).
 ##### [Fith clue](/clues/5.md) - 07/11/24
 ##### [Sixth clue](/clues/6.md) - 08/11/24
 ##### [Seventh clue](/clues/7.md) - 09/11/24
+##### [Eighth clue](/clues/8.md) - 10/11/24
