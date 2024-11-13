@@ -40,5 +40,5 @@ The rest of the [clues are in the clues folder](/clues).
 ##### [Seventh clue](/clues/7.md) - 09/11/24
 ##### [Eighth clue](/clues/8.md) - 10/11/24
 ##### [Nineth clue](/clues/9.md) - 11/11/24
-##### [Nineth clue](/clues/10.md) - 12/11/24
-##### [Nineth clue](/clues/11.md) - 13/11/24
+##### [Tenth clue](/clues/10.md) - 12/11/24
+##### [Eleventh clue](/clues/11.md) - 13/11/24
