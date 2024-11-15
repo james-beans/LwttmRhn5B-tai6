@@ -46,3 +46,4 @@ The rest of the [clues are in the clues folder](/clues).
 ##### [Thirteenth clue](/clues/13.md) - 15/11/24
 ##### [Fourteenth clue](/clues/14.md) - 16/11/24
 ##### [Fifteenth clue](/clues/15.md) - 17/11/24
+##### [Sixteenth clue](/clues/16.md) - 18/11/24
