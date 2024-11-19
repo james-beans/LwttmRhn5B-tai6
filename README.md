@@ -47,3 +47,7 @@ The rest of the [clues are in the clues folder](/clues).
 ##### [Fourteenth clue](/clues/14.md) - 16/11/24
 ##### [Fifteenth clue](/clues/15.md) - 17/11/24
 ##### [Sixteenth clue](/clues/16.md) - 18/11/24
+##### [Seventeenth clue](/clues/17.md) - 19/11/24
+##### [Eighteenth clue](/clues/18.md) - 20/11/24
+##### [Nineteenth clue](/clues/19.md) - 21/11/24
+##### [Twentieth clue](/clues/20.md) - 22/11/24
