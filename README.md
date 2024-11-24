@@ -30,6 +30,7 @@ The rest of the [clues are in the clues folder](/clues).
 <hr />
 
 ### [Clues](/clues) will be updated daily.
+### [Clues](/clues) list:
 
 ##### [First clue](/clues/1.md) - 03/11/24
 ##### [Second clue](/clues/2.md) - 04/11/24
@@ -51,3 +52,8 @@ The rest of the [clues are in the clues folder](/clues).
 ##### [Eighteenth clue](/clues/18.md) - 20/11/24
 ##### [Nineteenth clue](/clues/19.md) - 21/11/24
 ##### [Twentieth clue](/clues/20.md) - 22/11/24
+##### [Twenty One clue](/clues/21.md) - 23/11/24
+##### [Twenty Two clue](/clues/22.md) - 24/11/24
+##### [Twenty Three clue](/clues/23.md) - 25/11/24
+##### [Twenty Four clue](/clues/24.md) - 26/11/24
+##### [Twenty Five clue](/clues/25.md) - 27/11/24
