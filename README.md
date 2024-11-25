@@ -57,3 +57,6 @@ The rest of the [clues are in the clues folder](/clues).
 ##### [Twenty Three clue](/clues/23.md) - 25/11/24
 ##### [Twenty Four clue](/clues/24.md) - 26/11/24
 ##### [Twenty Five clue](/clues/25.md) - 27/11/24
+##### [Twenty Six clue](/clues/26.md) - 28/11/24
+##### [Twenty Seven clue](/clues/27.md) - 29/11/24
+##### [Twenty Eight clue](/clues/28.md) - 30/11/24
