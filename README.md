@@ -29,7 +29,7 @@ The rest of the [clues are in the clues folder](/clues).
 
 <hr />
 
-### [Clues](/clues) will be updated daily.
+### [Clues](/clues) will be updated frequently. (NOT DAILY)
 ### [Clues](/clues) list:
 
 ##### [First clue](/clues/1.md) - 03/11/24
